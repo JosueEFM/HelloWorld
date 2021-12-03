@@ -1,4 +1,5 @@
 # Hello World_Grupo 2_TC1033
+## Alejandro José Murcia Alfaro
 ## Josué Emmanuel Flores Mendoza
 
 ### Bienvenidos a mi primer commit en Github
